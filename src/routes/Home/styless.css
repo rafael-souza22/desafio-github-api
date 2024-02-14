@@ -1,0 +1,15 @@
+.card-container {
+  padding: 27px 40px;
+}
+
+.card-container h1 {
+  color: var(--ghs-color-font-secondary);
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.card-container p {
+  color: var(--ghs-color-font-tertiary);
+  font-size: 24px;
+  font-weight: 700;
+}
